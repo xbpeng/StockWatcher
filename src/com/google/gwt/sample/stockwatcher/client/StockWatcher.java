@@ -53,6 +53,10 @@ public class StockWatcher implements EntryPoint {
   public void newMethod(){
 	  System.out.println("Git is Awesome!");
   }
+  
+  public void arbritraryMethod(){
+	  System.out.println("This is Arbritrary!");
+  }
 
   /**
    * Entry point method.
