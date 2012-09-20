@@ -55,7 +55,7 @@ public class StockWatcher implements EntryPoint {
   }
   
   public void arbritraryMethod(){
-	  System.out.println("This is Arbritrary!");
+	  System.out.println("This is a new Arbritrary!");
   }
 
   /**
